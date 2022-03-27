@@ -1,0 +1,17 @@
+body {
+    background-color: darkseagreen;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    padding-left: 10%;
+    padding-top: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+}
+
+h1 {
+    text-align: center;
+    color: deepskyblue;
+    border: 4px double darkcyan;
+}
